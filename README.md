@@ -1,4 +1,5 @@
 # Personal Portfolio Website in React
+⚠️ **Disclaimer: This application is developed for educational purposes only and is not intended for commercial use.** ⚠️
 
 :blossom: This project is forked from [https://github.com/judygab/web-dev-projects/tree/main/personal-portfolio](https://github.com/judygab/web-dev-projects/tree/main/personal-portfolio).
 Thank you to judygab! 
