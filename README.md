@@ -5,6 +5,8 @@ Thank you to judygab!
 
 :blossom: Link to my portfolio: [qulinn.github.io/portfolio](https://qulinn.github.io/portfolio)
 
+:blossom: Development period: 2 days
+
 ## Demo 
 <img src="demo/demo1.png">
 <img src="demo/demo2.png">
